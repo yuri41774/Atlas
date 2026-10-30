@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802401860684",
+    "project_id": "casagestpro",
+    "storage_bucket": "casagestpro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802401860684:android:2e3452e2c4d94e70fcc8e9",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802401860684-8d5pn15lfev0bem90c58h4e8lgiqu9cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOEKqFGTUX3ebJ0XntHywgaqfdU28lLSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802401860684-8d5pn15lfev0bem90c58h4e8lgiqu9cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
